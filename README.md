@@ -61,8 +61,11 @@ Custom DAX measures were created to enable dynamic insights, including:
 
 ---
 
-## 📊 Report Pages 
+## 📊 Dashboard Previews
 
+| Employee Analysis | Salary Analysis | Bonus Analysis |
+|----------------|------------------|------------------|
+| ![Employee](image/Employee_Analysis.png) | ![Salary](image/Salary_Analysis.png) | ![Bonus](image/Bonus_Analysis.png) |
 
 
 ---
