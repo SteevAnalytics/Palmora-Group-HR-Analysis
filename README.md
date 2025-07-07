@@ -1,7 +1,5 @@
 # Palmora Group HR Analysis (Power BI Project)
 
-## 📘 Case Study 3 – Gender Equality and Compensation Review
-
 This Power BI report analyzes HR data from **Palmora Group**, a Nigerian manufacturing company currently facing gender inequality allegations across its regions. The analysis provides insights and recommendations to support the management team in addressing gender-related concerns and ensuring equitable practices company-wide.
 
 ---
